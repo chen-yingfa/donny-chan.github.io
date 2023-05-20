@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://donny-chan.github.io/project/2022/10/26/first-post/</loc>
+    <loc>https://donny-chan.github.io/2022/10/26/first-post/</loc>
     
-    <lastmod>2023-05-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://donny-chan.github.io/project/2022/10/26/second-post/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/2023/05/17/first-post/</loc>
+    <loc>https://donny-chan.github.io/2022/10/26/second-post/</loc>
     
-    <lastmod>2023-05-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://donny-chan.github.io/project/2022/12/31/hello-world/</loc>
-    
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/2023/05/18/second-post/</loc>
+    <loc>https://donny-chan.github.io/2023/05/17/first-post/</loc>
     
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/1999/03/12/test/</loc>
+    <loc>https://donny-chan.github.io/2022/12/31/hello-world/</loc>
     
-    <lastmod>2023-05-18</lastmod>
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://donny-chan.github.io/2023/05/18/second-post/</loc>
+    
+    <lastmod>2023-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://donny-chan.github.io/1999/03/12/test/</loc>
+    
+    <lastmod>2023-05-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,177 +57,177 @@
   
 
   <url>
-    <loc>https://donny-chan.github.io/project</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/life/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/life/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/school/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/school/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/update/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/update/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/learn/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/learn/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/important/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/important/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/jekyll/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/jekyll/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/test/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/test/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/hugo/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/hugo/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/static-site-generator/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/static-site-generator/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/research/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/research/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/notes/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/notes/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/nlp/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/nlp/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/machine-learning%E4%B8%8D%E7%9F%A5%E9%81%93/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/machine-learning%E4%B8%8D%E7%9F%A5%E9%81%93/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/blog-setup/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/blog-setup/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/homework/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/homework/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/0/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/0/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/%E5%AD%A9%E5%AD%90%E4%BB%AC/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/%E5%AD%A9%E5%AD%90%E4%BB%AC/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/%E5%8D%A7%E9%BE%99/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/%E5%8D%A7%E9%BE%99/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/%E7%8C%AB%E5%92%AA/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/%E7%8C%AB%E5%92%AA/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/%E5%B0%8F%E7%BB%BF/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/%E5%B0%8F%E7%BB%BF/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/%E5%9C%9F%E9%B8%A1/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/%E5%9C%9F%E9%B8%A1/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/deep-learning/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/deep-learning/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/graduation/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/graduation/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://donny-chan.github.io/project/tags/hexo/</loc>
-    <lastmod>2023-05-18</lastmod>
+    <loc>https://donny-chan.github.io/tags/hexo/</loc>
+    <lastmod>2023-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
