@@ -103,7 +103,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 # theme: cactus
-theme: minima
+theme: donny-minima
 # theme: next
 
 # Deployment

@@ -1,0 +1,55 @@
+#title in header
+title: "你好！ Hei! Hello!"
+
+#main info
+#owner
+owner: "Yingfa Chen - 陈英发 - Donny Chan"
+email: "chenyingfa1999@qq.com"
+info: "Master student at Tsinghua University, majoring in Computer Science, Natural Language Processing."
+desc: "陈英发，生于挪威，到中国求学，一个NLP研究者。"
+
+#menu
+menu:
+  Publications: /publications
+  About: /about
+  Projects: /projects
+  CV: /cv
+
+#index/main page max show posts (in number)
+max_post: 5
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: Earth
+github: https://github.com/donny-chan
+linkedin: https://linkedin.com/in/adisaktijrs
+twitter: https://twitter.com/DonnyChan123
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌙
+
+# Picture enlargement
+picjs: /js/pic.min.js
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: false
+disqus_shortname: https-adisaktijrs-github-io
