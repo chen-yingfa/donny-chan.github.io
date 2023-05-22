@@ -1,9 +1,13 @@
+https://donny-chan.github.io/projects/index.html
+https://donny-chan.github.io/publications/index-1.html
+https://donny-chan.github.io/publications/index.html
 https://donny-chan.github.io/2022/10/26/first-post/
 https://donny-chan.github.io/2022/10/26/second-post/
 https://donny-chan.github.io/2023/05/17/first-post/
 https://donny-chan.github.io/2022/12/31/hello-world/
 https://donny-chan.github.io/2023/05/18/second-post/
 https://donny-chan.github.io/1999/03/12/test/
+https://donny-chan.github.io/about/index.html
 https://donny-chan.github.io/
 https://donny-chan.github.io/tags/life/
 https://donny-chan.github.io/tags/school/
@@ -20,7 +24,7 @@ https://donny-chan.github.io/tags/nlp/
 https://donny-chan.github.io/tags/machine-learning%E4%B8%8D%E7%9F%A5%E9%81%93/
 https://donny-chan.github.io/tags/blog-setup/
 https://donny-chan.github.io/tags/homework/
-https://donny-chan.github.io/tags/0/
+https://donny-chan.github.io/tags/00/
 https://donny-chan.github.io/tags/%E5%AD%A9%E5%AD%90%E4%BB%AC/
 https://donny-chan.github.io/tags/%E5%8D%A7%E9%BE%99/
 https://donny-chan.github.io/tags/%E7%8C%AB%E5%92%AA/
