@@ -8,7 +8,7 @@ tags:
 - school
 - research
 - homework
-- 00
+- "00"
 - 孩子们
 - 卧龙
 - 猫咪

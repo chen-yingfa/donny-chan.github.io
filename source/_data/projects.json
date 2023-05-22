@@ -1,0 +1,17 @@
+[
+    {
+       "name":"BMCook: A Task-agnostic Compression Toolkit for Big Models (EMNLP 2022)",
+       "url":"https://github.com/OpenBMB/BMCook",
+       "desc":"BMCook: "
+    },
+    {
+        "name": "Sub-Character Tokenization for Chinese Pretrained Language Models (TACL 2023)",
+        "url": "https://arxiv.org/abs/2106.00400",
+        "desc": "A sub-character tokenization method that is more efficient and robust against noisy inputs, while maintaining competitive performance."
+    },
+    {
+       "name":"READIN: A Chinese Multi-Task Benchmark with Realistic and Diverse Input Noises (ACL 2023)",
+       "url":"https://arxiv.org/pdf/2302.07324.pdf",
+       "desc": "A Chinese dataset with realistic noise that is produces by inputting text through ASR and IME systems."
+    }
+]

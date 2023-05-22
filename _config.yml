@@ -6,9 +6,9 @@
 title: Yingfa Chen
 subtitle: 陈英发的博客
 description: '陈英发，生于挪威，到中国求学，一个NLP研究者'
-keywords:
+keywords: yingfa chen, machine learning, natural language processing
 author: Yingfa Chen
-language: zh
+language: en
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -101,7 +101,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+# theme: cactus
+theme: minima
 # theme: next
 
 # Deployment
